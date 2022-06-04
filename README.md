@@ -1,4 +1,4 @@
-# cit281-lab-8.io
+# cit281-lab-8
 lab 8
 
 This is Lab 8!
